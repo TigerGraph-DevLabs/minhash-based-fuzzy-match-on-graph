@@ -8,5 +8,5 @@
 
 ## Resources
 * Blog https://www.tigergraph.com/blog/minhash-based-fuzzy-match-on-graph/
-* Token Bank 
+* Token Bank https://github.com/TigerGraph-DevLabs/minhash-based-fuzzy-match-on-graph/blob/main/TokenBank.cpp
 

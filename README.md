@@ -11,6 +11,6 @@
 * Token Bank [https://github.com/TigerGraph-DevLabs/minhash-based-fuzzy-match-on-graph/blob/main/TokenBank.cpp](https://github.com/TigerGraph-DevLabs/minhash-based-fuzzy-match-on-graph/blob/main/TokenBank.cpp)
 
 ## Help
-For Q&A ask the community [https:community.tigergraph.com](https:community.tigergraph.com), alternitively you can chat with the community at [https:discord.gg/tigergraph](https:discord.gg/tigergraph)
+For Q&A ask the community [https://community.tigergraph.com](https://community.tigergraph.com), alternitively you can chat with the community at [https://discord.gg/tigergraph](https://discord.gg/tigergraph)
 
 
